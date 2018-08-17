@@ -1,0 +1,36 @@
+     #div1{
+           margin-left: auto;
+	       margin-right: auto;
+	       margin-top: 100px;
+	       width: 350px;
+	       height: 220px;
+           background-color:#c0c0c0;	
+	       background-position:center;           
+           background-repeat:no-repeat;
+           background-size:100% 100% ;
+           background-attachment:fixed;
+           background:rgba(0,0,0,0.1);	
+
+        }
+        
+        
+    #a1{
+        margin-top:20px;
+        margin-left:17px;
+        } 
+        a{
+     font-size:25px;
+     text-decoration:none;
+     color:#0000a0;
+ }
+        #return{
+        margin-top:30px;
+        margin-left:65px;
+        width:45px;
+        height:25px;
+        border:none;
+        background-color:#c7d6dc;
+        color:#000080;
+        opacity:0.7;
+        } 
+      

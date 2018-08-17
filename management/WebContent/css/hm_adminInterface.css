@@ -1,0 +1,51 @@
+#ldiv{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 130px;
+	width: 700px;
+	height: 400px;
+	background-color:#c0c0c0;	
+	background-position:center;           
+    background-repeat:no-repeat;
+    background-size:100% 100% ;
+    background-attachment:fixed;
+    background:rgba(0,0,0,0.1);
+}
+
+#ltable{
+	width: 100%;
+	height: inherit;
+    font-size: 25px;
+  
+}
+#thead{
+		font-size: 30px;
+		height:50px;
+	    color:#ff0000;
+		
+	}
+#div2{
+		margin-top: 3px;
+		margin-bottom:3px;
+		text-align: right;
+		padding-right: 20px;
+		
+}
+ a{
+ font-size:25px;
+ text-decoration:none;
+  color:#000080;
+ opacity:0.5;
+ font-weight:bold;
+ }
+
+input{
+	border: solid 1px;
+	border-radius: 5px;
+	width:245px;
+	height:40px;
+	
+}
+
+
+

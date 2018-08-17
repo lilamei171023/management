@@ -1,0 +1,47 @@
+#rdiv{
+	margin-left: 500px;
+	margin-right: auto;
+	margin-top: 100px;
+	width: 450px;
+	height: 250px;
+	background-color:#c0c0c0;	
+    background:rgba(0,0,0,0.1);
+	
+}
+
+#rtable{
+	width: inherit;
+	height: inherit;
+	
+}
+#thead{
+		font-size: 20px;
+		height:50px;
+		
+	}
+#div2{
+		margin-top: 0px;
+		margin-bottom:3px;
+		text-align: right;
+		padding-right: 10px;
+		
+}
+ #button{
+ border:none;
+ background-color:#0000a0;
+ color:#ffffff;
+  opacity:0.7;
+ }
+
+h3{
+	color:#000080;
+	opacity:0.9;
+}
+
+a{
+ font-size:15px;
+ text-decoration:none;
+ color:#000080;
+ opacity:0.5;
+ font-weight:bold;
+ }

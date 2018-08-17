@@ -1,0 +1,41 @@
+#revisediv{
+	margin-left:400px;
+	margin-right: auto;
+	margin-top: 150px;
+	width: 700px;
+	height: 470px;
+	
+}
+ #td1{
+  width:80px; 
+  height:40px;
+  color:#000080;
+  opacity:0.5;
+ }
+
+
+#revisetable{
+	width: 440px;
+	hight: inherit;
+    background-color:#c0c0c0;	
+	background-position:center;           
+    background-repeat:no-repeat;
+    background-size:100% 100% ;
+    background-attachment:fixed;
+    background:rgba(0,0,0,0.1);
+}
+#button{
+	width: 40px;
+	hight: inherit;
+    border:none;
+    background-color:#fcbc92;
+    color:#000040;
+    opacity:0.7;
+ }
+#h2{
+	margin-left:-40px;
+	margin-right: auto;
+	color:#000080;
+	opacity:0.9;
+	
+}

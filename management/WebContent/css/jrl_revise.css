@@ -1,0 +1,71 @@
+input,textarea{
+	border: solid 1px;
+	width:80px;
+}
+td{
+		font-size:20px;
+		padding: 7px;
+	}
+	
+	a{
+		text-decoration: none;
+		font-size:13px;
+		color:#000000;
+		margin-right: 20px;
+	}
+	
+	#div1{
+		margin-left: 60px;
+		margin-right: auto; 
+		margin-top:100px; 
+		width: 1500px; 
+		height: inherit; 
+		
+		
+	}
+	
+	#tab{
+		width:inherit; 
+		height: inherit;	
+	    background-color:#808080;	
+	    background-position:center;           
+        background-repeat:no-repeat;
+        background-size:100% 100% ;
+        background-attachment:fixed;
+        background:rgba(0,0,0,0.1);
+	}
+	
+	
+	
+	#div2{
+		margin-top: 5px;
+		margin-bottom:5px;
+		text-align: right;
+		padding-right: 20px;
+	}
+#button{
+ width:45px;
+ height:25px;
+ border:none;
+ background-color:#a3a3d1;
+ color:#1a0e7e;
+  opacity:0.7;
+ }
+ #button1{
+ margin-reght:8px;
+ width:45px;
+ height:25px;
+ border:none;
+ background-color:#a3a3d1;
+ color:#1a0e7e;
+  opacity:0.7;
+ }
+  #sub{
+ width:45px;
+ height:25px;
+ border:none;
+ background-color:#a3a3d1;
+ color:#1a0e7e;
+  opacity:0.7;
+ }
+	

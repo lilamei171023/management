@@ -1,0 +1,29 @@
+#registerdiv{
+	margin-left: 500px;
+	margin-right: auto;
+	margin-top: 90px;
+	width: 300px;
+	height: 400px;
+}
+
+
+#registertable{
+	width: 300px;
+	height: 400px;
+	font-size:16px;
+	background:rgba(0,0,0,0.2);
+}
+#colour{
+	color:#000080;
+	opacity:0.5;
+}
+#button{
+ border:none;
+ background-color:#fcb585;
+ color:#ffffff;
+  opacity:0.7;
+ }
+h2{
+	color:#000080;
+	opacity:0.9;
+}
